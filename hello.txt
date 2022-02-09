@@ -8,4 +8,4 @@ Mencoba melakukan penambahan pembaruan deskripsi
 Mencoba Latihan Squash and Merge
 - [v] Squash 1
 - [v] Squash 2
-- [x] Squash 3
+- [v] Squash 3
